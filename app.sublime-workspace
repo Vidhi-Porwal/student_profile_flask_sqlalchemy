@@ -1,0 +1,1265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cre",
+				"create_app"
+			],
+			[
+				"u",
+				"user_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"ge",
+				"generate_password_hash"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"contac",
+				"contact_id"
+			],
+			[
+				"e",
+				"entry_id"
+			],
+			[
+				"str",
+				"str_1"
+			],
+			[
+				"contca",
+				"contact_id"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"I",
+				"INTEGER"
+			],
+			[
+				"contact",
+				"contact_entry"
+			],
+			[
+				"stu",
+				"student_id"
+			],
+			[
+				"c",
+				"cursor_3"
+			],
+			[
+				"cou",
+				"cursor_2"
+			],
+			[
+				"course",
+				"course_id"
+			],
+			[
+				"da",
+				"data_entry"
+			],
+			[
+				"d",
+				"dept_phone_no"
+			],
+			[
+				"de",
+				"dept_email"
+			],
+			[
+				"cu",
+				"cursor_6"
+			],
+			[
+				"cur",
+				"cursor_2"
+			],
+			[
+				"my",
+				"myconn"
+			],
+			[
+				"myc",
+				"mycursor"
+			],
+			[
+				"ex",
+				"expression"
+			],
+			[
+				"in",
+				"infix_to_postfix"
+			],
+			[
+				"exp",
+				"expression"
+			],
+			[
+				"po",
+				"postfix_expression"
+			],
+			[
+				"i",
+				"infix_expression"
+			],
+			[
+				"op",
+				"operand_2"
+			],
+			[
+				"ope",
+				"operand_1"
+			],
+			[
+				"opera",
+				"operand_2"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"pri",
+				"Priority"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/db.py",
+			"settings":
+			{
+				"buffer_size": 714,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACsBAAAAAAAALAEAAAAAAAAAAAAALAEAAAAAAAAwAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwEAAAAAAAArAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"",
+					null,
+					"AQAAADABAAAAAAAAUQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAEAAAAAAAAwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAAygIAAAAAAAAAAAAAygIAAAAAAADKAgAAAAAAAHoBAABpbXBvcnQgY2xpY2sKZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAsZwpmcm9tIC4gaW1wb3J0IGRiLCBVc2VyCgpkZWYgZ2V0X2RiKCk6CiAgCiAgcmV0dXJuIGRiCgpkZWYgY2xvc2VfZGIoZT1Ob25lKToKICAgIHBhc3MKCmRlZiBpbml0X2RiKCk6CiAgICBkYi5jcmVhdGVfYWxsKCkKCgpAY2xpY2suY29tbWFuZCgnaW5pdC1kYicpCmRlZiBpbml0X2RiX2NvbW1hbmQoKToKICAgIAogICAgaW5pdF9kYigpCiAgICBjbGljay5lY2hvKCdJbml0aWFsaXplZCB0aGUgZGF0YWJhc2UuJykKCmRlZiBpbml0X2FwcChhcHApOgogICAgYXBwLnRlYXJkb3duX2FwcGNvbnRleHQoY2xvc2VfZGIpCiAgICBhcHAuY2xpLmFkZF9jb21tYW5kKGluaXRfZGJfY29tbWFuZCk",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/models.py",
+			"settings":
+			{
+				"buffer_size": 730,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAA2gIAAAAAAAAAAAAA2gIAAAAAAADaAgAAAAAAABkDAABmcm9tIGZsYXNrX3NxbGFsY2hlbXkgaW1wb3J0IFNRTEFsY2hlbXkKCmRiID0gU1FMQWxjaGVteSgpCgoKY2xhc3MgVXNlcihkYi5Nb2RlbCk6CiAgICBfX3RhYmxlbmFtZV9fID0gJ3VzZXInCgogICAgaWQgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSwgYXV0b2luY3JlbWVudD1UcnVlKQogICAgdXNlcm5hbWUgPSBkYi5Db2x1bW4oZGIuU3RyaW5nKDI1NSksIHVuaXF1ZT1UcnVlLCBudWxsYWJsZT1GYWxzZSkKICAgIHBhc3N3b3JkID0gZGIuQ29sdW1uKGRiLlN0cmluZygyNTUpLCBudWxsYWJsZT1GYWxzZSkKICAgIAogICAgIyBSZWxhdGlvbnNoaXAgdG8gUG9zdAogICAgcG9zdHMgPSBkYi5yZWxhdGlvbnNoaXAoJ1Bvc3QnLCBiYWNrcmVmPSdhdXRob3InLCBsYXp5PVRydWUpCgpjbGFzcyBQb3N0KGRiLk1vZGVsKToKICAgIF9fdGFibGVuYW1lX18gPSAncG9zdCcKCiAgICBpZCA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBwcmltYXJ5X2tleT1UcnVlLCBhdXRvaW5jcmVtZW50PVRydWUpCiAgICBhdXRob3JfaWQgPSBkYi5Db2x1bW4oZGIuSW50ZWdlciwgZGIuRm9yZWlnbktleSgndXNlci5pZCcpLCBudWxsYWJsZT1GYWxzZSkKICAgIGNyZWF0ZWQgPSBkYi5Db2x1bW4oZGIuRGF0ZVRpbWUsIHNlcnZlcl9kZWZhdWx0PWRiLmZ1bmMuY3VycmVudF90aW1lc3RhbXAoKSwgbnVsbGFibGU9RmFsc2UpCiAgICB0aXRsZSA9IGRiLkNvbHVtbihkYi5UZXh0LCBudWxsYWJsZT1GYWxzZSkKICAgIGJvZHkgPSBkYi5Db2x1bW4oZGIuVGV4dCwgbnVsbGFibGU9RmFsc2Up",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAZAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/blog.py",
+			"settings":
+			{
+				"buffer_size": 3337,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAABw0AAAAAAAAAAAAABw0AAAAAAAAHDQAAAAAAADQIAABmcm9tIGZsYXNrIGltcG9ydCAoCiAgICBCbHVlcHJpbnQsIGZsYXNoLCBnLCByZWRpcmVjdCwgcmVuZGVyX3RlbXBsYXRlLCByZXF1ZXN0LCB1cmxfZm9yCikKZnJvbSB3ZXJremV1Zy5leGNlcHRpb25zIGltcG9ydCBhYm9ydAoKZnJvbSBmbGFza3IuYXV0aCBpbXBvcnQgbG9naW5fcmVxdWlyZWQKZnJvbSBmbGFza3IuZGIgaW1wb3J0IGdldF9kYgpmcm9tIC4gaW1wb3J0IFBvc3QsIGRiLCBVc2VyCgpicCA9IEJsdWVwcmludCgnYmxvZycsIF9fbmFtZV9fKQoKQGJwLnJvdXRlKCcvJykKZGVmIGluZGV4KCk6CiAgICBwb3N0cyA9IFBvc3QucXVlcnkuam9pbihVc2VyKS5hZGRfY29sdW1ucyhVc2VyLnVzZXJuYW1lKS5vcmRlcl9ieShQb3N0LmNyZWF0ZWQuZGVzYygpKS5hbGwoKQogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgnYmxvZy9pbmRleC5odG1sJywgcG9zdHM9cG9zdHMpCgpAYnAucm91dGUoJy9jcmVhdGUnLCBtZXRob2RzPSgnR0VUJywgJ1BPU1QnKSkKQGxvZ2luX3JlcXVpcmVkCmRlZiBjcmVhdGUoKToKICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdQT1NUJzoKICAgICAgICB0aXRsZSA9IHJlcXVlc3QuZm9ybVsndGl0bGUnXQogICAgICAgIGJvZHkgPSByZXF1ZXN0LmZvcm1bJ2JvZHknXQogICAgICAgIGVycm9yID0gTm9uZQoKICAgICAgICBpZiBub3QgdGl0bGU6CiAgICAgICAgICAgIGVycm9yID0gJ1RpdGxlIGlzIHJlcXVpcmVkLicKCiAgICAgICAgaWYgZXJyb3IgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGZsYXNoKGVycm9yKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5ld19wb3N0ID0gUG9zdCh0aXRsZT10aXRsZSwgYm9keT1ib2R5LCBhdXRob3JfaWQ9Zy51c2VyLmlkKQogICAgICAgICAgICBkYi5zZXNzaW9uLmFkZChuZXdfcG9zdCkKICAgICAgICAgICAgZGIuc2Vzc2lvbi5jb21taXQoKQogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QodXJsX2ZvcignYmxvZy5pbmRleCcpKQoKICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2Jsb2cvY3JlYXRlLmh0bWwnKQoKZGVmIGdldF9wb3N0KGlkLCBjaGVja19hdXRob3I9VHJ1ZSk6CiAgICBwb3N0ID0gUG9zdC5xdWVyeS5qb2luKFVzZXIpLmFkZF9jb2x1bW5zKFVzZXIudXNlcm5hbWUpLmZpbHRlcihQb3N0LmlkID09IGlkKS5maXJzdCgpCgogICAgaWYgcG9zdCBpcyBOb25lOgogICAgICAgIGFib3J0KDQwNCwgZiJQb3N0IGlkIHtpZH0gZG9lc24ndCBleGlzdC4iKQoKICAgIGlmIGNoZWNrX2F1dGhvciBhbmQgcG9zdFsnYXV0aG9yX2lkJ10gIT0gZy51c2VyWydpZCddOgogICAgICAgIGFib3J0KDQwMykKCiAgICByZXR1cm4gcG9zdAoKQGJwLnJvdXRlKCcvPGludDppZD4vdXBkYXRlJywgbWV0aG9kcz0oJ0dFVCcsICdQT1NUJykpCkBsb2dpbl9yZXF1aXJlZApkZWYgdXBkYXRlKGlkKToKICAgIHBvc3QgPSBnZXRfcG9zdChpZCkKCiAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnUE9TVCc6CiAgICAgICAgdGl0bGUgPSByZXF1ZXN0LmZvcm1bJ3RpdGxlJ10KICAgICAgICBib2R5ID0gcmVxdWVzdC5mb3JtWydib2R5J10KICAgICAgICBlcnJvciA9IE5vbmUKCiAgICAgICAgaWYgbm90IHRpdGxlOgogICAgICAgICAgICBlcnJvciA9ICdUaXRsZSBpcyByZXF1aXJlZC4nCgogICAgICAgIGlmIGVycm9yIGlzIG5vdCBOb25lOgogICAgICAgICAgICBmbGFzaChlcnJvcikKICAgICAgICBlbHNlOgogICAgICAgICAgICBwb3N0LnRpdGxlID0gdGl0bGUKICAgICAgICAgICAgcG9zdC5ib2R5ID0gYm9keQogICAgICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCdibG9nLmluZGV4JykpCgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgnYmxvZy91cGRhdGUuaHRtbCcsIHBvc3Q9cG9zdCkKCkBicC5yb3V0ZSgnLzxpbnQ6aWQ+L2RlbGV0ZScsIG1ldGhvZHM9KCdQT1NUJywpKQpAbG9naW5fcmVxdWlyZWQKZGVmIGRlbGV0ZShpZCk6CiAgICBwb3N0ID0gZ2V0X3Bvc3QoaWQpCiAgICBkYi5zZXNzaW9uLmRlbGV0ZShwb3N0KQogICAgZGIuc2Vzc2lvbi5jb21taXQoKQogICAgcmV0dXJuIHJlZGlyZWN0KHVybF9mb3IoJ2Jsb2cuaW5kZXgnKSk",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAA0CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAEUBAAAAAAAARgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQEAAAAAAABFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAEsBAAAAAAAATAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwEAAAAAAABLAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/__init__.py",
+			"settings":
+			{
+				"buffer_size": 1202,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAMwAAAAAAAAAzQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAANEAAAAAAAAA0gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAADMBAAAAAAAANQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAEAAAAAAABkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAI0BAAAAAAAAjgEAAAAAAAAAAAAAjgEAAAAAAACWAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQEAAAAAAACNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"paste",
+					null,
+					"AQAAAJYBAAAAAAAAsAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgEAAAAAAACWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAALABAAAAAAAAsgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAALABAAAAAAAAsAEAAAAAAAABAAAAIrABAAAAAAAAsAEAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAsQEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "'"
+					},
+					"AQAAALABAAAAAAAAsQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"",
+					null,
+					"AQAAALABAAAAAAAA4QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					11,
+					"left_delete",
+					null,
+					"CwAAAOABAAAAAAAA4AEAAAAAAAABAAAAZd8BAAAAAAAA3wEAAAAAAAABAAAAbd4BAAAAAAAA3gEAAAAAAAABAAAAYd0BAAAAAAAA3QEAAAAAAAABAAAAbtwBAAAAAAAA3AEAAAAAAAABAAAAX9sBAAAAAAAA2wEAAAAAAAABAAAAZdoBAAAAAAAA2gEAAAAAAAABAAAAc9kBAAAAAAAA2QEAAAAAAAABAAAAYdgBAAAAAAAA2AEAAAAAAAABAAAAYtcBAAAAAAAA1wEAAAAAAAABAAAAYdYBAAAAAAAA1gEAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAA4QEAAAAAAADhAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					2,
+					"left_delete",
+					null,
+					"AgAAANUBAAAAAAAA1QEAAAAAAAABAAAAYdQBAAAAAAAA1AEAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAA1gEAAAAAAADWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "my_"
+					},
+					"AwAAANQBAAAAAAAA1QEAAAAAAAAAAAAA1QEAAAAAAADWAQAAAAAAAAAAAADWAQAAAAAAANcBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AEAAAAAAADUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "project"
+					},
+					"BwAAANcBAAAAAAAA2AEAAAAAAAAAAAAA2AEAAAAAAADZAQAAAAAAAAAAAADZAQAAAAAAANoBAAAAAAAAAAAAANoBAAAAAAAA2wEAAAAAAAAAAAAA2wEAAAAAAADcAQAAAAAAAAAAAADcAQAAAAAAAN0BAAAAAAAAAAAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1wEAAAAAAADXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					8,
+					"left_delete",
+					null,
+					"CAAAAL8BAAAAAAAAvwEAAAAAAAABAAAAZb4BAAAAAAAAvgEAAAAAAAABAAAAbb0BAAAAAAAAvQEAAAAAAAABAAAAYbwBAAAAAAAAvAEAAAAAAAABAAAAbrsBAAAAAAAAuwEAAAAAAAABAAAAcroBAAAAAAAAugEAAAAAAAABAAAAZbkBAAAAAAAAuQEAAAAAAAABAAAAc7gBAAAAAAAAuAEAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAwAEAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "local"
+					},
+					"BQAAALgBAAAAAAAAuQEAAAAAAAAAAAAAuQEAAAAAAAC6AQAAAAAAAAAAAAC6AQAAAAAAALsBAAAAAAAAAAAAALsBAAAAAAAAvAEAAAAAAAAAAAAAvAEAAAAAAAC9AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuAEAAAAAAAC4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "_host"
+					},
+					"BQAAAL0BAAAAAAAAvgEAAAAAAAAAAAAAvgEAAAAAAAC/AQAAAAAAAAAAAAC/AQAAAAAAAMABAAAAAAAAAAAAAMABAAAAAAAAwQEAAAAAAAAAAAAAwQEAAAAAAADCAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvQEAAAAAAAC9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					8,
+					"left_delete",
+					null,
+					"CAAAAMoBAAAAAAAAygEAAAAAAAABAAAAZMkBAAAAAAAAyQEAAAAAAAABAAAAcsgBAAAAAAAAyAEAAAAAAAABAAAAb8cBAAAAAAAAxwEAAAAAAAABAAAAd8YBAAAAAAAAxgEAAAAAAAABAAAAc8UBAAAAAAAAxQEAAAAAAAABAAAAc8QBAAAAAAAAxAEAAAAAAAABAAAAYcMBAAAAAAAAwwEAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAAywEAAAAAAADLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "Vidhi"
+					},
+					"BQAAAMMBAAAAAAAAxAEAAAAAAAAAAAAAxAEAAAAAAADFAQAAAAAAAAAAAADFAQAAAAAAAMYBAAAAAAAAAAAAAMYBAAAAAAAAxwEAAAAAAAAAAAAAxwEAAAAAAADIAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwwEAAAAAAADDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "@3112"
+					},
+					"BQAAAMgBAAAAAAAAyQEAAAAAAAAAAAAAyQEAAAAAAADKAQAAAAAAAAAAAADKAQAAAAAAAMsBAAAAAAAAAAAAAMsBAAAAAAAAzAEAAAAAAAAAAAAAzAEAAAAAAADNAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAEAAAAAAADIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					10,
+					"left_delete",
+					null,
+					"CgAAAMEBAAAAAAAAwQEAAAAAAAABAAAAdMABAAAAAAAAwAEAAAAAAAABAAAAc78BAAAAAAAAvwEAAAAAAAABAAAAb74BAAAAAAAAvgEAAAAAAAABAAAAaL0BAAAAAAAAvQEAAAAAAAABAAAAX7wBAAAAAAAAvAEAAAAAAAABAAAAbLsBAAAAAAAAuwEAAAAAAAABAAAAYboBAAAAAAAAugEAAAAAAAABAAAAY7kBAAAAAAAAuQEAAAAAAAABAAAAb7gBAAAAAAAAuAEAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAAwgEAAAAAAADCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "root"
+					},
+					"BAAAALgBAAAAAAAAuQEAAAAAAAAAAAAAuQEAAAAAAAC6AQAAAAAAAAAAAAC6AQAAAAAAALsBAAAAAAAAAAAAALsBAAAAAAAAvAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuAEAAAAAAAC4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					2,
+					"left_delete",
+					null,
+					"AgAAANMBAAAAAAAA0wEAAAAAAAABAAAAedIBAAAAAAAA0gEAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAA1AEAAAAAAADUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "first"
+					},
+					"BQAAANIBAAAAAAAA0wEAAAAAAAAAAAAA0wEAAAAAAADUAQAAAAAAAAAAAADUAQAAAAAAANUBAAAAAAAAAAAAANUBAAAAAAAA1gEAAAAAAAAAAAAA1gEAAAAAAADXAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0gEAAAAAAADSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					4,
+					"left_delete",
+					null,
+					"BAAAAMsBAAAAAAAAywEAAAAAAAABAAAAdMoBAAAAAAAAygEAAAAAAAABAAAAc8kBAAAAAAAAyQEAAAAAAAABAAAAb8gBAAAAAAAAyAEAAAAAAAABAAAAaA",
+					"AQAAAAAAAAABAAAAzAEAAAAAAADMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "local"
+					},
+					"BQAAAMgBAAAAAAAAyQEAAAAAAAAAAAAAyQEAAAAAAADKAQAAAAAAAAAAAADKAQAAAAAAAMsBAAAAAAAAAAAAAMsBAAAAAAAAzAEAAAAAAAAAAAAAzAEAAAAAAADNAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAEAAAAAAADIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "host"
+					},
+					"BAAAAM0BAAAAAAAAzgEAAAAAAAAAAAAAzgEAAAAAAADPAQAAAAAAAAAAAADPAQAAAAAAANABAAAAAAAAAAAAANABAAAAAAAA0QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQEAAAAAAADNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					4,
+					"left_delete",
+					null,
+					"BAAAANUBAAAAAAAA1QEAAAAAAAABAAAAdNQBAAAAAAAA1AEAAAAAAAABAAAActMBAAAAAAAA0wEAAAAAAAABAAAAb9IBAAAAAAAA0gEAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAA1gEAAAAAAADWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "3306"
+					},
+					"BAAAANIBAAAAAAAA0wEAAAAAAAAAAAAA0wEAAAAAAADUAQAAAAAAAAAAAADUAQAAAAAAANUBAAAAAAAAAAAAANUBAAAAAAAA1gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0gEAAAAAAADSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					4,
+					"left_delete",
+					null,
+					"BAAAANUBAAAAAAAA1QEAAAAAAAABAAAANtQBAAAAAAAA1AEAAAAAAAABAAAAMNMBAAAAAAAA0wEAAAAAAAABAAAAM9IBAAAAAAAA0gEAAAAAAAABAAAAMw",
+					"AQAAAAAAAAABAAAA1gEAAAAAAADWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"left_delete",
+					null,
+					"AQAAANEBAAAAAAAA0QEAAAAAAAABAAAAOg",
+					"AQAAAAAAAAABAAAA0gEAAAAAAADSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "%40"
+					},
+					"AwAAAMIBAAAAAAAAwwEAAAAAAAAAAAAAwwEAAAAAAADEAQAAAAAAAAAAAADEAQAAAAAAAMUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwgEAAAAAAADCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMUBAAAAAAAAxQEAAAAAAAABAAAAQA",
+					"AQAAAAAAAAABAAAAxgEAAAAAAADGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAOIBAAAAAAAA4wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gEAAAAAAADiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAAVgQAAAAAAAAAAAAAVgQAAAAAAABWBAAAAAAAALAEAABpbXBvcnQgb3MKZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKZnJvbSBmbGFza19zcWxhbGNoZW15IGltcG9ydCBTUUxBbGNoZW15CgojIEluaXRpYWxpemUgU1FMQWxjaGVteQpkYiA9IFNRTEFsY2hlbXkoKQoKZGVmIGNyZWF0ZV9hcHAodGVzdF9jb25maWc9Tm9uZSk6CiAgICAjIENyZWF0ZSBhbmQgY29uZmlndXJlIHRoZSBhcHAKICAgIGFwcCA9IEZsYXNrKF9fbmFtZV9fLCBpbnN0YW5jZV9yZWxhdGl2ZV9jb25maWc9VHJ1ZSkKICAgIGFwcC5jb25maWcuZnJvbV9tYXBwaW5nKAogICAgICAgIFNFQ1JFVF9LRVk9J2RldicsCiAgICAgICAgIyBTUUxBTENIRU1ZX0RBVEFCQVNFX1VSST1mJ3NxbGl0ZTovLy97b3MucGF0aC5qb2luKGFwcC5pbnN0YW5jZV9wYXRoLCAiZmxhc2tyLnNxbGl0ZSIpfScsCiAgICAgICAgU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkk9ZidteXNxbDovL3Jvb3Q6VmlkaGklNDAzMTEyQGxvY2FsaG9zdC9maXJzdF9wcm9qZWN0JywKICAgICAgICBTUUxBTENIRU1ZX1RSQUNLX01PRElGSUNBVElPTlM9RmFsc2UsICAjIERpc2FibGUgdHJhY2sgbW9kaWZpY2F0aW9ucyB0byBzYXZlIG1lbW9yeQogICAgKQoKICAgIGlmIHRlc3RfY29uZmlnIGlzIE5vbmU6CiAgICAgICAgIyBMb2FkIHRoZSBpbnN0YW5jZSBjb25maWcsIGlmIGl0IGV4aXN0cywgd2hlbiBub3QgdGVzdGluZwogICAgICAgIGFwcC5jb25maWcuZnJvbV9weWZpbGUoJ2NvbmZpZy5weScsIHNpbGVudD1UcnVlKQogICAgZWxzZToKICAgICAgICAjIExvYWQgdGhlIHRlc3QgY29uZmlnIGlmIHBhc3NlZCBpbgogICAgICAgIGFwcC5jb25maWcuZnJvbV9tYXBwaW5nKHRlc3RfY29uZmlnKQoKICAgICMgRW5zdXJlIHRoZSBpbnN0YW5jZSBmb2xkZXIgZXhpc3RzCiAgICB0cnk6CiAgICAgICAgb3MubWFrZWRpcnMoYXBwLmluc3RhbmNlX3BhdGgpCiAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICBwYXNzCgogICAgIyBJbml0aWFsaXplIHRoZSBkYXRhYmFzZSB3aXRoIHRoZSBhcHAKICAgIGRiLmluaXRfYXBwKGFwcCkKCiAgICBmcm9tIC4gaW1wb3J0IGF1dGgKICAgIGFwcC5yZWdpc3Rlcl9ibHVlcHJpbnQoYXV0aC5icCkKCiAgICBmcm9tIC4gaW1wb3J0IGJsb2cKICAgIGFwcC5yZWdpc3Rlcl9ibHVlcHJpbnQoYmxvZy5icCkKICAgIGFwcC5hZGRfdXJsX3J1bGUoJy8nLCBlbmRwb2ludD0naW5kZXgnKQoKICAgIHJldHVybiBhcHA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAACwBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAADEBAAAAAAAAMwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQEAAAAAAAA5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAIsBAAAAAAAAjAEAAAAAAAAAAAAAjAEAAAAAAACUAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiwEAAAAAAACLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"paste",
+					null,
+					"AQAAAJQBAAAAAAAA7AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAEAAAAAAACUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"left_delete",
+					null,
+					"AQAAAK4BAAAAAAAArgEAAAAAAAA8AAAAc3FsaXRlOi8vL3tvcy5wYXRoLmpvaW4oYXBwLmluc3RhbmNlX3BhdGgsICJmbGFza3Iuc3FsaXRlIil9",
+					"AQAAAAAAAAABAAAArgEAAAAAAADqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"",
+					null,
+					"AQAAAK4BAAAAAAAA3wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					8,
+					"left_delete",
+					null,
+					"CAAAAL0BAAAAAAAAvQEAAAAAAAABAAAAZbwBAAAAAAAAvAEAAAAAAAABAAAAbbsBAAAAAAAAuwEAAAAAAAABAAAAYboBAAAAAAAAugEAAAAAAAABAAAAbrkBAAAAAAAAuQEAAAAAAAABAAAAcrgBAAAAAAAAuAEAAAAAAAABAAAAZbcBAAAAAAAAtwEAAAAAAAABAAAAc7YBAAAAAAAAtgEAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAvgEAAAAAAAC+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "root"
+					},
+					"BAAAALYBAAAAAAAAtwEAAAAAAAAAAAAAtwEAAAAAAAC4AQAAAAAAAAAAAAC4AQAAAAAAALkBAAAAAAAAAAAAALkBAAAAAAAAugEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgEAAAAAAAC2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					131,
+					7,
+					"right_delete",
+					null,
+					"BwAAALsBAAAAAAAAuwEAAAAAAAABAAAAcLsBAAAAAAAAuwEAAAAAAAABAAAAYbsBAAAAAAAAuwEAAAAAAAABAAAAc7sBAAAAAAAAuwEAAAAAAAABAAAAc7sBAAAAAAAAuwEAAAAAAAABAAAAd7sBAAAAAAAAuwEAAAAAAAABAAAAb7sBAAAAAAAAuwEAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAuwEAAAAAAAC7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"right_delete",
+					null,
+					"AQAAALsBAAAAAAAAuwEAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAAuwEAAAAAAAC7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"insert",
+					{
+						"characters": "Vidhi"
+					},
+					"BQAAALsBAAAAAAAAvAEAAAAAAAAAAAAAvAEAAAAAAAC9AQAAAAAAAAAAAAC9AQAAAAAAAL4BAAAAAAAAAAAAAL4BAAAAAAAAvwEAAAAAAAAAAAAAvwEAAAAAAADAAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwEAAAAAAAC7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					134,
+					1,
+					"insert",
+					{
+						"characters": "%40311"
+					},
+					"BgAAAMABAAAAAAAAwQEAAAAAAAAAAAAAwQEAAAAAAADCAQAAAAAAAAAAAADCAQAAAAAAAMMBAAAAAAAAAAAAAMMBAAAAAAAAxAEAAAAAAAAAAAAAxAEAAAAAAADFAQAAAAAAAAAAAADFAQAAAAAAAMYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwAEAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					135,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAMYBAAAAAAAAxwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgEAAAAAAADGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					4,
+					"left_delete",
+					null,
+					"BAAAAMsBAAAAAAAAywEAAAAAAAABAAAAdMoBAAAAAAAAygEAAAAAAAABAAAAc8kBAAAAAAAAyQEAAAAAAAABAAAAb8gBAAAAAAAAyAEAAAAAAAABAAAAaA",
+					"AQAAAAAAAAABAAAAzAEAAAAAAADMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": "local"
+					},
+					"BQAAAMgBAAAAAAAAyQEAAAAAAAAAAAAAyQEAAAAAAADKAQAAAAAAAAAAAADKAQAAAAAAAMsBAAAAAAAAAAAAAMsBAAAAAAAAzAEAAAAAAAAAAAAAzAEAAAAAAADNAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAEAAAAAAADIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					139,
+					1,
+					"insert",
+					{
+						"characters": "host"
+					},
+					"BAAAAM0BAAAAAAAAzgEAAAAAAAAAAAAAzgEAAAAAAADPAQAAAAAAAAAAAADPAQAAAAAAANABAAAAAAAAAAAAANABAAAAAAAA0QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQEAAAAAAADNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					13,
+					"left_delete",
+					null,
+					"DQAAAOMBAAAAAAAA4wEAAAAAAAABAAAAZeIBAAAAAAAA4gEAAAAAAAABAAAAbeEBAAAAAAAA4QEAAAAAAAABAAAAYeABAAAAAAAA4AEAAAAAAAABAAAAbt8BAAAAAAAA3wEAAAAAAAABAAAAX94BAAAAAAAA3gEAAAAAAAABAAAAZd0BAAAAAAAA3QEAAAAAAAABAAAAc9wBAAAAAAAA3AEAAAAAAAABAAAAYdsBAAAAAAAA2wEAAAAAAAABAAAAYtoBAAAAAAAA2gEAAAAAAAABAAAAYdkBAAAAAAAA2QEAAAAAAAABAAAAdNgBAAAAAAAA2AEAAAAAAAABAAAAYdcBAAAAAAAA1wEAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAA5AEAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					143,
+					1,
+					"insert",
+					{
+						"characters": "first_"
+					},
+					"BgAAANcBAAAAAAAA2AEAAAAAAAAAAAAA2AEAAAAAAADZAQAAAAAAAAAAAADZAQAAAAAAANoBAAAAAAAAAAAAANoBAAAAAAAA2wEAAAAAAAAAAAAA2wEAAAAAAADcAQAAAAAAAAAAAADcAQAAAAAAAN0BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1wEAAAAAAADXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					144,
+					1,
+					"insert",
+					{
+						"characters": "projec"
+					},
+					"BgAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA3gEAAAAAAADfAQAAAAAAAAAAAADfAQAAAAAAAOABAAAAAAAAAAAAAOABAAAAAAAA4QEAAAAAAAAAAAAA4QEAAAAAAADiAQAAAAAAAAAAAADiAQAAAAAAAOMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					145,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAOMBAAAAAAAA5AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAMwAAAAAAAAAzQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					153,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAANEAAAAAAAAA0gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					4,
+					"left_delete",
+					null,
+					"BAAAANcBAAAAAAAA1wEAAAAAAAABAAAAdNYBAAAAAAAA1gEAAAAAAAABAAAActUBAAAAAAAA1QEAAAAAAAABAAAAb9QBAAAAAAAA1AEAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAA2AEAAAAAAADYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					157,
+					1,
+					"left_delete",
+					null,
+					"AQAAANMBAAAAAAAA0wEAAAAAAAABAAAAOg",
+					"AQAAAAAAAAABAAAA1AEAAAAAAADUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					164,
+					1,
+					"left_delete",
+					null,
+					"AQAAANQBAAAAAAAA1AEAAAAAAAANAAAAZmlyc3RfcHJvamVjdA",
+					"AQAAAAAAAAABAAAA4QEAAAAAAADUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					1,
+					"",
+					null,
+					"AQAAANQBAAAAAAAA4wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AEAAAAAAADUAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/templates/blog/index.html",
+			"settings":
+			{
+				"buffer_size": 864,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAAYAMAAAAAAAAAAAAAYAMAAAAAAABgAwAAAAAAABUDAAB7JSBleHRlbmRzICdiYXNlLmh0bWwnICV9Cgp7JSBibG9jayBoZWFkZXIgJX0KICA8aDE+eyUgYmxvY2sgdGl0bGUgJX1Qb3N0c3slIGVuZGJsb2NrICV9PC9oMT4KICB7JSBpZiBnLnVzZXIgJX0KICAgIDxhIGNsYXNzPSJhY3Rpb24iIGhyZWY9Int7IHVybF9mb3IoJ2Jsb2cuY3JlYXRlJykgfX0iPk5ldzwvYT4KICB7JSBlbmRpZiAlfQp7JSBlbmRibG9jayAlfQoKeyUgYmxvY2sgY29udGVudCAlfQogIHslIGZvciBwb3N0IGluIHBvc3RzICV9CiAgICA8YXJ0aWNsZSBjbGFzcz0icG9zdCI+CiAgICAgIDxoZWFkZXI+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxoMT57eyBwb3N0Wyd0aXRsZSddIH19PC9oMT4KICAgICAgICAgIDxkaXYgY2xhc3M9ImFib3V0Ij5ieSB7eyBwb3N0Wyd1c2VybmFtZSddIH19IG9uIHt7IHBvc3RbJ2NyZWF0ZWQnXS5zdHJmdGltZSgnJVktJW0tJWQnKSB9fTwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIHslIGlmIGcudXNlclsnaWQnXSA9PSBwb3N0WydhdXRob3JfaWQnXSAlfQogICAgICAgICAgPGEgY2xhc3M9ImFjdGlvbiIgaHJlZj0ie3sgdXJsX2ZvcignYmxvZy51cGRhdGUnLCBpZD1wb3N0WydpZCddKSB9fSI+RWRpdDwvYT4KICAgICAgICB7JSBlbmRpZiAlfQogICAgICA8L2hlYWRlcj4KICAgICAgPHAgY2xhc3M9ImJvZHkiPnt7IHBvc3RbJ2JvZHknXSB9fTwvcD4KICAgIDwvYXJ0aWNsZT4KICAgIHslIGlmIG5vdCBsb29wLmxhc3QgJX0KICAgICAgPGhyPgogICAgeyUgZW5kaWYgJX0KICB7JSBlbmRmb3IgJX0KeyUgZW5kYmxvY2sgJX0",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAVAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/auth.py",
+			"settings":
+			{
+				"buffer_size": 2673,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAAbwoAAAAAAAAAAAAAbwoAAAAAAABvCgAAAAAAAJsIAABpbXBvcnQgZnVuY3Rvb2xzCgpmcm9tIGZsYXNrIGltcG9ydCAoCiAgICBCbHVlcHJpbnQsIGZsYXNoLCBnLCByZWRpcmVjdCwgcmVuZGVyX3RlbXBsYXRlLCByZXF1ZXN0LCBzZXNzaW9uLCB1cmxfZm9yCikKZnJvbSB3ZXJremV1Zy5zZWN1cml0eSBpbXBvcnQgY2hlY2tfcGFzc3dvcmRfaGFzaCwgZ2VuZXJhdGVfcGFzc3dvcmRfaGFzaAoKZnJvbSBmbGFza3IuZGIgaW1wb3J0IGdldF9kYgpmcm9tIC4gaW1wb3J0IFVzZXIsZGIKCmJwID0gQmx1ZXByaW50KCdhdXRoJywgX19uYW1lX18sIHVybF9wcmVmaXg9Jy9hdXRoJykKQGJwLnJvdXRlKCcvcmVnaXN0ZXInLCBtZXRob2RzPSgnR0VUJywgJ1BPU1QnKSkKZGVmIHJlZ2lzdGVyKCk6CiAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnUE9TVCc6CiAgICAgICAgdXNlcm5hbWUgPSByZXF1ZXN0LmZvcm1bJ3VzZXJuYW1lJ10KICAgICAgICBwYXNzd29yZCA9IHJlcXVlc3QuZm9ybVsncGFzc3dvcmQnXQogICAgICAgIGVycm9yID0gTm9uZQoKICAgICAgICBpZiBub3QgdXNlcm5hbWU6CiAgICAgICAgICAgIGVycm9yID0gJ1VzZXJuYW1lIGlzIHJlcXVpcmVkLicKICAgICAgICBlbGlmIG5vdCBwYXNzd29yZDoKICAgICAgICAgICAgZXJyb3IgPSAnUGFzc3dvcmQgaXMgcmVxdWlyZWQuJwogICAgICAgIGVsaWYgVXNlci5xdWVyeS5maWx0ZXJfYnkodXNlcm5hbWU9dXNlcm5hbWUpLmZpcnN0KCkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGVycm9yID0gZiJVc2VyIHt1c2VybmFtZX0gaXMgYWxyZWFkeSByZWdpc3RlcmVkLiIKCiAgICAgICAgaWYgZXJyb3IgaXMgTm9uZToKICAgICAgICAgICAgbmV3X3VzZXIgPSBVc2VyKHVzZXJuYW1lPXVzZXJuYW1lLCBwYXNzd29yZD1nZW5lcmF0ZV9wYXNzd29yZF9oYXNoKHBhc3N3b3JkKSkKICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQobmV3X3VzZXIpCiAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KHVybF9mb3IoImF1dGgubG9naW4iKSkKCiAgICAgICAgZmxhc2goZXJyb3IpCgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgnYXV0aC9yZWdpc3Rlci5odG1sJykKCkBicC5yb3V0ZSgnL2xvZ2luJywgbWV0aG9kcz0oJ0dFVCcsICdQT1NUJykpCmRlZiBsb2dpbigpOgogICAgaWYgcmVxdWVzdC5tZXRob2QgPT0gJ1BPU1QnOgogICAgICAgIHVzZXJuYW1lID0gcmVxdWVzdC5mb3JtWyd1c2VybmFtZSddCiAgICAgICAgcGFzc3dvcmQgPSByZXF1ZXN0LmZvcm1bJ3Bhc3N3b3JkJ10KICAgICAgICBlcnJvciA9IE5vbmUKICAgICAgICB1c2VyID0gVXNlci5xdWVyeS5maWx0ZXJfYnkodXNlcm5hbWU9dXNlcm5hbWUpLmZpcnN0KCkKCiAgICAgICAgaWYgdXNlciBpcyBOb25lOgogICAgICAgICAgICBlcnJvciA9ICdJbmNvcnJlY3QgdXNlcm5hbWUuJwogICAgICAgIGVsaWYgbm90IGNoZWNrX3Bhc3N3b3JkX2hhc2godXNlclsncGFzc3dvcmQnXSwgcGFzc3dvcmQpOgogICAgICAgICAgICBlcnJvciA9ICdJbmNvcnJlY3QgcGFzc3dvcmQuJwoKICAgICAgICBpZiBlcnJvciBpcyBOb25lOgogICAgICAgICAgICBzZXNzaW9uLmNsZWFyKCkKICAgICAgICAgICAgc2Vzc2lvblsndXNlcl9pZCddID0gdXNlclsnaWQnXQogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QodXJsX2ZvcignaW5kZXgnKSkKCiAgICAgICAgZmxhc2goZXJyb3IpCgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgnYXV0aC9sb2dpbi5odG1sJykKCkBicC5iZWZvcmVfYXBwX3JlcXVlc3QKZGVmIGxvYWRfbG9nZ2VkX2luX3VzZXIoKToKICAgIHVzZXJfaWQgPSBzZXNzaW9uLmdldCgndXNlcl9pZCcpCiAgICBnLnVzZXIgPSBVc2VyLnF1ZXJ5LmdldCh1c2VyX2lkKSBpZiB1c2VyX2lkIGVsc2UgTm9uZQoKQGJwLnJvdXRlKCcvbG9nb3V0JykKZGVmIGxvZ291dCgpOgogICAgc2Vzc2lvbi5jbGVhcigpCiAgICByZXR1cm4gcmVkaXJlY3QodXJsX2ZvcignaW5kZXgnKSkKCmRlZiBsb2dpbl9yZXF1aXJlZCh2aWV3KToKICAgIEBmdW5jdG9vbHMud3JhcHModmlldykKICAgIGRlZiB3cmFwcGVkX3ZpZXcoKiprd2FyZ3MpOgogICAgICAgIGlmIGcudXNlciBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QodXJsX2ZvcignYXV0aC5sb2dpbicpKQoKICAgICAgICByZXR1cm4gdmlldygqKmt3YXJncykKCiAgICByZXR1cm4gd3JhcHBlZF92aWV3",
+					"AQAAAAAAAAABAAAAAAAAAAAAAACbCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAD8BAAAAAAAAQAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwEAAAAAAAA/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAAEQBAAAAAAAARQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vidhi/Desktop/flask_tutorial",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/static",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates/auth",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates/blog",
+		"/home/vidhi/Desktop/flask_tutorial/instance"
+	],
+	"file_history":
+	[
+		"/home/vidhi/Desktop/flaskr/__init__.py",
+		"/home/vidhi/Desktop/flask_sqlalchemy/app.py",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/__init__.py",
+		"/home/vidhi/Desktop/flaskr/db.py",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/db.py",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/auth.py",
+		"/home/vidhi/Desktop/flaskr/auth.py",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/blog.py",
+		"/home/vidhi/Desktop/flaskr/blog.py",
+		"/home/vidhi/Desktop/flaskr/models.py",
+		"/home/vidhi/Desktop/myproject/flaskr/blog.py",
+		"/home/vidhi/Desktop/myproject/flaskr/auth.py",
+		"/home/vidhi/Desktop/myproject/flaskr/schema.sql",
+		"/home/vidhi/Desktop/myproject/flaskr/db.py",
+		"/home/vidhi/Desktop/myproject/flaskr/__init__.py",
+		"/home/vidhi/Desktop/flaskr/schema.sql",
+		"/home/vidhi/PycharmProjects/DBMS/Phonebook/crud.py",
+		"/home/vidhi/PycharmProjects/DBMS/Phonebook/phonebook_changed.py",
+		"/home/vidhi/Desktop/flaskr/templates/blog/index.html",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/schema.sql",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates/blog/create.html",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates/blog/update.html",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates/blog/index.html",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/static/style.css",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates/auth/login.html",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates/base.html",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/templates/auth/register.html",
+		"/home/vidhi/PycharmProjects/DBMS/Phonebook/phonebook.py",
+		"/home/vidhi/PycharmProjects/practicepython/calculator_function.py",
+		"/home/vidhi/PycharmProjects/practicepython/dictionary.py",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/style.css",
+		"/home/vidhi/Desktop/flask_tutorial/flaskr/schema.py",
+		"/home/vidhi/PycharmProjects/practicepython/phonebook/phonebook_plk/index.py",
+		"/home/vidhi/PycharmProjects/practicepython/phonebook/phonebook_plk/hh.py",
+		"/home/vidhi/PycharmProjects/practicepython/phonebook/class_based_phonebook_2.py",
+		"/home/vidhi/PycharmProjects/practicepython/phonebook/base_2.py",
+		"/home/vidhi/PycharmProjects/DBMS/SQLite.py",
+		"/home/vidhi/PycharmProjects/DBMS/Institue_student_management_system/db_structure.py",
+		"/home/vidhi/PycharmProjects/DBMS/Institue_student_management_system/new_db_structure.py",
+		"/home/vidhi/PycharmProjects/DBMS/firstdata.db",
+		"/home/vidhi/PycharmProjects/DBMS/Institue_student_management_system/index.py",
+		"/home/vidhi/PycharmProjects/practicepython/beverage 2.0 .py",
+		"/home/vidhi/Desktop/flask_tutorial/hello.py",
+		"/home/vidhi/Desktop/myproject/first.py",
+		"/home/vidhi/PycharmProjects/pythonProject/pharmaeasy_2.py",
+		"/home/vidhi/Desktop/myproject/init.py",
+		"/home/vidhi/PycharmProjects/DBMS/RHA/rha_db_structure.py",
+		"/home/vidhi/PycharmProjects/DBMS/Institue_student_management_system/main.py",
+		"/home/vidhi/PycharmProjects/DBMS/RHA/rha_main.py",
+		"/home/vidhi/PycharmProjects/pythonProject/reverse_obfuscation.py",
+		"/home/vidhi/PycharmProjects/pythonProject/python_function.py",
+		"/home/vidhi/PycharmProjects/practicepython/arithmatic_expression/stack_arithmatic.py",
+		"/home/vidhi/PycharmProjects/DBMS/rha_SQL.py",
+		"/home/vidhi/PycharmProjects/python practice/arithmatic_expression/infix_prefix.py",
+		"/home/vidhi/PycharmProjects/python practice/arithmatic_expression/stack_arithmatic_1.py",
+		"/home/vidhi/PycharmProjects/python practice/arithmatic_expression/stack_arithmatic.py",
+		"/home/vidhi/PycharmProjects/python practice/phonebook/class_based_phonebook_2.py",
+		"/home/vidhi/PycharmProjects/python practice/arithmatic_expression/main.py",
+		"/home/vidhi/PycharmProjects/python practice/reverse_string.py",
+		"/home/vidhi/PycharmProjects/python practice/arithmatic_expression/stack_arithmatic_prefix.py",
+		"/home/vidhi/PycharmProjects/python practice/arithmatic_expression/class_and_object.py",
+		"/media/vidhi/DATA/python practice/arithmatic_expression/main.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								730,
+								730
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/blog.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/__init__.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/templates/blog/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/vidhi/Desktop/flask_tutorial/flaskr/auth.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2184,
+								2184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
